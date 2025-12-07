@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/lite-shop-app/static/css/main.e6c13ad2.css",
+    "main.js": "/lite-shop-app/static/js/main.924a5706.js",
+    "static/js/453.77458d31.chunk.js": "/lite-shop-app/static/js/453.77458d31.chunk.js",
+    "index.html": "/lite-shop-app/index.html",
+    "main.e6c13ad2.css.map": "/lite-shop-app/static/css/main.e6c13ad2.css.map",
+    "main.924a5706.js.map": "/lite-shop-app/static/js/main.924a5706.js.map",
+    "453.77458d31.chunk.js.map": "/lite-shop-app/static/js/453.77458d31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.924a5706.js"
+  ]
+}
